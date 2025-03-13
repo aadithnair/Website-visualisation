@@ -1,0 +1,22 @@
+date,crime_type,police_station,latitude,longitude,age,cncp_details,crime_descriptions
+2016-01-01,Petty,Sheshadripuram,12.9913,77.5770,32,CNCP123456,Theft
+2016-01-01,Serious,Sheshadripuram,12.9913,77.5770,45,CNCP789012,Assault
+2016-01-01,Heinous,Sheshadripuram,12.9913,77.5770,28,CNCP345678,Kidnapping
+2016-01-01,Petty,Sheshadripuram,12.9913,77.5770,50,CNCP901234,Shoplifting
+2016-01-01,Petty,Sheshadripuram,12.9913,77.5770,22,CNCP567890,Trespassing
+2022-01-01,Serious,Sheshadripuram,12.9913,77.5770,38,CNCP112233,Burglary
+2022-01-01,Petty,Sheshadripuram,12.9913,77.5770,29,CNCP445566,Public Nuisance
+2016-01-01,Serious,High Ground,12.9857,77.5846,41,CNCP778899,Robbery
+2017-01-01,Petty,High Ground,12.9857,77.5846,25,CNCP990011,Vandalism
+2017-01-01,Heinous,High Ground,12.9857,77.5846,60,CNCP223344,Murder
+2018-01-01,Petty,High Ground,12.9857,77.5846,33,CNCP556677,Theft
+2022-01-01,Serious,High Ground,12.9857,77.5846,47,CNCP889900,Fraud
+2022-01-01,Heinous,High Ground,12.9857,77.5846,52,CNCP334455,Arson
+2022-01-01,Petty,High Ground,12.9857,77.5846,19,CNCP667788,Shoplifting
+2023-01-01,Petty,High Ground,12.9857,77.5846,36,CNCP001122,Trespassing
+2023-01-01,Serious,High Ground,12.9857,77.5846,44,CNCP98877,Burglary
+2021-03-20,Serious,Kengeri,12.910290,77.481527,30,CNCP26412,Burglary
+2019-04-06,Heinous,Kumbalagudu,12.8776,77.4463,19,CNCP27632,Rape
+2019-04-06,Petty,Kumbalagudu,12.8776,77.4463,20,CNCP27635,Nuisance
+2022-12-10,Serious,Electronic City,12.83952,77.66149,35,CNCP27635,Burglary
+2020-11-06,Petty,Hulimavu,12.85820166,77.58952833,26,CNCP27635,Theft

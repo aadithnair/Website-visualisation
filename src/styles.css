@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .map-container {
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 20px;
+    justify-content: center;
+  }
+  
+  .filters label {
+    display: flex;
+    flex-direction: column;
+    font-size: 0.9em;
+  }
+  
+  .tabs {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .tabs button {
+    padding: 10px 15px;
+    margin-right: 5px;
+    border: none;
+    background-color: #ddd;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .tabs button.active {
+    background-color: #aaa;
+    color: #fff;
+  }
+  
+  .tab-content {
+    margin-bottom: 30px;
+  }
+  
+  .chart-container {
+    position: relative;
+    width: 100%;
+    min-height: 300px;
+    margin-bottom: 30px;
+  }
+  
+  .summary table,
+  .data-table table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+  }
+  
+  table, th, td {
+    border: 1px solid #ccc;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .custom-popup strong {
+    color: #000000;
+  }
+  

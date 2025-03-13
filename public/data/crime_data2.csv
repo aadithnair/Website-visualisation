@@ -1,0 +1,22 @@
+name,address,crime_details,police_jurisdiction
+CNCP123456,"12.9913, 77.577","Petty - Theft | IPC 379 (Theft), IPC 294 (Obscene Acts)",Sheshadripuram
+CNCP789012,"12.9913, 77.577","Serious - Assault | IPC 323 (Voluntary Hurt), IPC 420 (Cheating)",Sheshadripuram
+CNCP345678,"12.9913, 77.577","Heinous - Kidnapping | IPC 302 (Murder), IPC 376 (Rape)",Sheshadripuram
+CNCP901234,"12.9913, 77.577","Petty - Shoplifting | IPC 379 (Theft), IPC 294 (Obscene Acts)",Sheshadripuram
+CNCP567890,"12.9913, 77.577","Petty - Trespassing | IPC 379 (Theft), IPC 294 (Obscene Acts)",Sheshadripuram
+CNCP112233,"12.9913, 77.577","Serious - Burglary | IPC 323 (Voluntary Hurt), IPC 420 (Cheating)",Sheshadripuram
+CNCP445566,"12.9913, 77.577","Petty - Public Nuisance | IPC 379 (Theft), IPC 294 (Obscene Acts)",Sheshadripuram
+CNCP778899,"12.9857, 77.5846","Serious - Robbery | IPC 323 (Voluntary Hurt), IPC 420 (Cheating)",High Ground
+CNCP990011,"12.9857, 77.5846","Petty - Vandalism | IPC 379 (Theft), IPC 294 (Obscene Acts)",High Ground
+CNCP223344,"12.9857, 77.5846","Heinous - Murder | IPC 302 (Murder), IPC 376 (Rape)",High Ground
+CNCP556677,"12.9857, 77.5846","Petty - Theft | IPC 379 (Theft), IPC 294 (Obscene Acts)",High Ground
+CNCP889900,"12.9857, 77.5846","Serious - Fraud | IPC 323 (Voluntary Hurt), IPC 420 (Cheating)",High Ground
+CNCP334455,"12.9857, 77.5846","Heinous - Arson | IPC 302 (Murder), IPC 376 (Rape)",High Ground
+CNCP667788,"12.9857, 77.5846","Petty - Shoplifting | IPC 379 (Theft), IPC 294 (Obscene Acts)",High Ground
+CNCP001122,"12.9857, 77.5846","Petty - Trespassing | IPC 379 (Theft), IPC 294 (Obscene Acts)",High Ground
+CNCP98877,"12.9857, 77.5846","Serious - Burglary | IPC 323 (Voluntary Hurt), IPC 420 (Cheating)",High Ground
+CNCP26412,"12.91029, 77.481527","Serious - Burglary | IPC 323 (Voluntary Hurt), IPC 420 (Cheating)",Kengeri
+CNCP27632,"12.8776, 77.4463","Heinous - Rape | IPC 302 (Murder), IPC 376 (Rape)",Kumbalagudu
+CNCP27635,"12.8776, 77.4463","Petty - Nuisance | IPC 379 (Theft), IPC 294 (Obscene Acts)",Kumbalagudu
+CNCP27635,"12.83952, 77.66149","Serious - Burglary | IPC 323 (Voluntary Hurt), IPC 420 (Cheating)",Electronic City
+CNCP27635,"12.85820166, 77.58952833","Petty - Theft | IPC 379 (Theft), IPC 294 (Obscene Acts)",Hulimavu
